@@ -1,8 +1,10 @@
 ### Hi there 👋
-Alex, 20.
-currently at one of Bulgaria's tech universities (won't tell which one yet!)
+Alex, 22.
+Currently at Technical University of Varna.
 
-<!--
-Alex, 20
-currently at one of Bulgaria's tech universities (won't tell which one yet!)
--->
+📍 Varna, Bulgaria
+
+Passionate about building scalable and maintainable solutions, I specialize in full-stack development with a focus on real-time applications. 
+Experienced in Java, Spring Boot, React, and Apache Kafka, I’ve worked on projects like a messaging platform and a desktop ticketing app, 
+applying SOLID principles and modern technologies. 
+Currently studying at the Technical University of Varna, I’m eager to contribute to innovative projects and collaborate on GitHub.
